@@ -62,7 +62,7 @@ $(function(){
                                             $.get("./index6.html", function(data){
                                                 $("#message").after(data);
                                                 $("#message").after("<button id = 'revert'>Start Again<button>");
-                                                $("#message").on("click", function(){
+                                                $("#revert").on("click", function(){
                                                     decider = 1;
                                                     window.location.href = window.location.href;
                                                 })
@@ -72,7 +72,7 @@ $(function(){
                                             $.get("./index7.html", function(data){
                                                 $("#message").after(data);
                                                 $("#message").after("<button id = 'revert'>Start Again<button>");
-                                                $("#message").on("click", function(){
+                                                $("#revert").on("click", function(){
                                                     decider = 1;
                                                     window.location.href = window.location.href;
                                                 })
@@ -84,7 +84,7 @@ $(function(){
                                             $.get("./index6.html", function(data){
                                                 $("#message").after(data);
                                                 $("#message").after("<button id = 'revert'>Start Again<button>");  
-                                                $("#message").on("click", function(){
+                                                $("#revert").on("click", function(){
                                                     decider = 1;
                                                     window.location.href = window.location.href;
                                                 })
@@ -95,7 +95,7 @@ $(function(){
                                             $.get("./index7.html", function(data){
                                                 $("#message").after(data);
                                                 $("#message").after("<button id = 'revert'>Start Again<button>");  
-                                                $("#message").on("click", function(){
+                                                $("#revert").on("click", function(){
                                                     decider = 1;
                                                     window.location.href = window.location.href;
                                                 })
@@ -108,7 +108,7 @@ $(function(){
                                             $.get("./index6.html", function(data){
                                                 $("#message").after(data);
                                                 $("#message").after("<button id = 'revert'>Start Again<button>");  
-                                                $("#message").on("click", function(){
+                                                $("#revert").on("click", function(){
                                                     decider = 1;
                                                     window.location.href = window.location.href;
                                                 })
@@ -119,7 +119,7 @@ $(function(){
                                             $.get("./index7.html", function(data){
                                                 $("#message").after(data);
                                                 $("#message").after("<button id = 'revert'>Start Again<button>");  
-                                                $("#message").on("click", function(){
+                                                $("#revert").on("click", function(){
                                                     decider = 1;
                                                     window.location.href = window.location.href;
                                                 })
@@ -132,7 +132,7 @@ $(function(){
                                             $.get("./index6.html", function(data){
                                                 $("#message").after(data);
                                                 $("#message").after("<button id = 'revert'>Start Again<button>");  
-                                                $("#message").on("click", function(){
+                                                $("#revert").on("click", function(){
                                                     decider = 1;
                                                     window.location.href = window.location.href;
                                                 })
@@ -143,7 +143,7 @@ $(function(){
                                             $.get("./index7.html", function(data){
                                                 $("#message").after(data);
                                                 $("#message").after("<button id = 'revert'>Start Again<button>");  
-                                                $("#message").on("click", function(){
+                                                $("#revert").on("click", function(){
                                                     decider = 1;
                                                     window.location.href = window.location.href;
                                                 })
@@ -156,7 +156,7 @@ $(function(){
                                             $.get("./index6.html", function(data){
                                                 $("#message").after(data);
                                                 $("#message").after("<button id = 'revert'>Start Again<button>");  
-                                                $("#message").on("click", function(){
+                                                $("#revert").on("click", function(){
                                                     decider = 1;
                                                     window.location.href = window.location.href;
                                                 })
@@ -167,7 +167,7 @@ $(function(){
                                             $.get("./index7.html", function(data){
                                                 $("#message").after(data);
                                                 $("#message").after("<button id = 'revert'>Start Again<button>");  
-                                                $("#message").on("click", function(){
+                                                $("#revert").on("click", function(){
                                                     decider = 1;
                                                     window.location.href = window.location.href;
                                                 })
@@ -180,7 +180,7 @@ $(function(){
                                             $.get("./index6.html", function(data){
                                                 $("#message").after(data);
                                                 $("#message").after("<button id = 'revert'>Start Again<button>");  
-                                                $("#message").on("click", function(){
+                                                $("#revert").on("click", function(){
                                                     decider = 1;
                                                     window.location.href = window.location.href;
                                                 })
@@ -191,7 +191,7 @@ $(function(){
                                             $.get("./index7.html", function(data){
                                                 $("#message").after(data);
                                                 $("#message").after("<button id = 'revert'>Start Again<button>");  
-                                                $("#message").on("click", function(){
+                                                $("#revert").on("click", function(){
                                                     decider = 1;
                                                     window.location.href = window.location.href;
                                                 })
@@ -204,7 +204,7 @@ $(function(){
                                             $.get("./index6.html", function(data){
                                                 $("#message").after(data);
                                                 $("#message").after("<button id = 'revert'>Start Again<button>");  
-                                                $("#message").on("click", function(){
+                                                $("#revert").on("click", function(){
                                                     decider = 1;
                                                     window.location.href = window.location.href;
                                                 })
@@ -215,7 +215,7 @@ $(function(){
                                             $.get("./index7.html", function(data){
                                                 $("#message").after(data);
                                                 $("#message").after("<button id = 'revert'>Start Again<button>");  
-                                                $("#message").on("click", function(){
+                                                $("#revert").on("click", function(){
                                                     decider = 1;
                                                     window.location.href = window.location.href;
                                                 })
@@ -228,7 +228,7 @@ $(function(){
                                             $.get("./index6.html", function(data){
                                                 $("#message").after(data);
                                                 $("#message").after("<button id = 'revert'>Start Again<button>");  
-                                                $("#message").on("click", function(){
+                                                $("#revert").on("click", function(){
                                                     decider = 1;
                                                     window.location.href = window.location.href;
                                                 })
@@ -239,7 +239,7 @@ $(function(){
                                             $.get("./index7.html", function(){
                                                 $("#message").after(data);
                                                 $("#message").after("<button id = 'revert'>Start Again<button>");  
-                                                $("#message").on("click", function(){
+                                                $("#revert").on("click", function(){
                                                     decider = 1;
                                                     window.location.href = window.location.href;
                                                 })
@@ -251,7 +251,7 @@ $(function(){
                                         $.get("./index7.html", function(data){
                                             $("#message").after(data);
                                             $("#message").after("<button id = 'revert'>Start Again<button>");  
-                                            $("#message").on("click", function(){   decider = 1
+                                            $("#revert").on("click", function(){   decider = 1
                                                 window.location.href = window.location.href;  
                                             })
                                         })
@@ -313,7 +313,7 @@ $(function(){
                                             $.get("./index6.html", function(data){
                                                 $("#message").after(data);
                                                 $("#message").after("<button id = 'revert'>Start Again<button>");  
-                                                $("#message").on("click", function(){
+                                                $("#revert").on("click", function(){
                                                     decider = 1;
                                                     window.location.href = window.location.href;
                                                 })
@@ -325,7 +325,7 @@ $(function(){
                                             $.get("./index7.html", function(data){
                                                 $("#message").after(data);
                                                 $("#message").after("<button id = 'revert'>Start Again<button>");  
-                                                $("#message").on("click", function(){
+                                                $("#revert").on("click", function(){
                                                     decider = 1;
                                                     window.location.href = window.location.href;
                                                 })
@@ -339,7 +339,7 @@ $(function(){
                                             $.get("./index6.html", function(data){
                                                 $("#message").after(data);
                                                 $("#message").after("<button id = 'revert'>Start Again<button>");  
-                                                $("#message").on("click", function(){
+                                                $("#revert").on("click", function(){
                                                     decider = 1;
                                                     window.location.href = window.location.href;
                                                 })
@@ -351,7 +351,7 @@ $(function(){
                                             $.get("./index7.html", function(data){
                                                 $("#message").after(data);
                                                 $("#message").after("<button id = 'revert'>Start Again<button>");  
-                                                $("#message").on("click", function(){
+                                                $("#revert").on("click", function(){
                                                     decider = 1;
                                                     window.location.href = window.location.href;
                                                 })
@@ -364,7 +364,7 @@ $(function(){
                                             $.get("./index6.html", function(data){
                                                 $("#message").after(data);
                                                 $("#message").after("<button id = 'revert'>Start Again<button>");  
-                                                $("#message").on("click", function(){
+                                                $("#revert").on("click", function(){
                                                     decider = 1;
                                                     window.location.href = window.location.href;
                                                 })
@@ -375,7 +375,7 @@ $(function(){
                                             $.get("./index7.html", function(data){
                                                 $("#message").after(data);
                                                 $("#message").after("<button id = 'revert'>Start Again<button>");  
-                                                $("#message").on("click", function(){
+                                                $("#revert").on("click", function(){
                                                     decider = 1;
                                                     window.location.href = window.location.href;
                                                 })
@@ -389,7 +389,7 @@ $(function(){
                                             $.get("./index6.html", function(data){
                                                 $("#message").after(data);
                                                 $("#message").after("<button id = 'revert'>Start Again<button>");  
-                                                $("#message").on("click", function(){
+                                                $("#revert").on("click", function(){
                                                     decider = 1;
                                                     window.location.href = window.location.href;
                                                 })
@@ -401,7 +401,7 @@ $(function(){
                                             $.get("./index7.html", function(data){
                                                 $("#message").after(data);
                                                 $("#message").after("<button id = 'revert'>Start Again<button>");  
-                                                $("#message").on("click", function(){
+                                                $("#revert").on("click", function(){
                                                     decider = 1;
                                                     window.location.href = window.location.href;
                                                 })
@@ -415,7 +415,7 @@ $(function(){
                                             $.get("./index6.html", function(data){
                                                 $("#message").after(data);
                                                 $("#message").after("<button id = 'revert'>Start Again<button>");  
-                                                $("#message").on("click", function(){
+                                                $("#revert").on("click", function(){
                                                     decider = 1;
                                                     window.location.href = window.location.href;
                                                 })
@@ -427,7 +427,7 @@ $(function(){
                                             $.get("./index7.html", function(data){
                                                 $("#message").after(data);
                                                 $("#message").after("<button id = 'revert'>Start Again<button>");  
-                                                $("#message").on("click", function(){
+                                                $("#revert").on("click", function(){
                                                     decider = 1;
                                                     window.location.href = window.location.href;
                                                 })
@@ -441,7 +441,7 @@ $(function(){
                                             $.get("./index6.html", function(data){
                                                 $("#message").after(data);
                                                 $("#message").after("<button id = 'revert'>Start Again<button>");  
-                                                $("#message").on("click", function(){
+                                                $("#revert").on("click", function(){
                                                     decider = 1;
                                                     window.location.href = window.location.href;
                                                 })
@@ -452,7 +452,7 @@ $(function(){
                                             $.get("./index7.html", function(data){
                                                 $("#message").after(data);
                                                 $("#message").after("<button id = 'revert'>Start Again<button>");  
-                                                $("#message").on("click", function(){
+                                                $("#revert").on("click", function(){
                                                     decider = 1;
                                                     window.location.href = window.location.href;
                                                 })
@@ -467,7 +467,7 @@ $(function(){
                                             $.get("./index6.html", function(data){
                                                 $("#message").after(data);
                                                 $("#message").after("<button id = 'revert'>Start Again<button>");  
-                                                $("#message").on("click", function(){
+                                                $("#revert").on("click", function(){
                                                     decider = 1;
                                                     window.location.href = window.location.href;
                                                 })
@@ -479,7 +479,7 @@ $(function(){
                                             $.get("./index7.html", function(data){
                                                 $("#message").after(data);
                                                 $("#message").after("<button id = 'revert'>Start Again<button>");  
-                                                $("#message").on("click", function(){
+                                                $("#revert").on("click", function(){
                                                     decider = 1;
                                                     window.location.href = window.location.href;
                                                 })
@@ -493,7 +493,7 @@ $(function(){
                                             $.get("./index6.html", function(data){
                                                 $("#message").after(data);
                                                 $("#message").after("<button id = 'revert'>Start Again<button>");  
-                                                $("#message").on("click", function(){
+                                                $("#revert").on("click", function(){
                                                     decider = 1;
                                                     window.location.href = window.location.href;
                                                 })
@@ -505,7 +505,7 @@ $(function(){
                                             $.get("./index7.html", function(data){
                                                 $("#message").after(data);
                                                 $("#message").after("<button id = 'revert'>Start Again<button>");  
-                                                $("#message").on("click", function(){
+                                                $("#revert").on("click", function(){
                                                     decider = 1;
                                                     window.location.href = window.location.href;
                                                 })
@@ -518,7 +518,7 @@ $(function(){
                                         $.get("./index7.html", function(data){
                                             $("#message").after(data);
                                             $("#message").after("<button id = 'revert'>Start Again<button>");  
-                                            $("#message").on("click", function(){   decider = 1
+                                            $("#revert").on("click", function(){   decider = 1
                                                 window.location.href = window.location.href;  
                                             })
                                         })
