@@ -1,2 +1,2 @@
-# Criss_Cross
-A Tic Tac Toe web game using HTML, CSS, Javascript, JQuery
+# CrIsS_CrOSs
+A web Tic_Tac_Toe game
