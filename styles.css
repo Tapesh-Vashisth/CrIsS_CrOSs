@@ -159,6 +159,11 @@ input:hover{
     color: rgb(33, 189, 66);
 }
 
+#Tie{
+    font-size: 35px;
+    color: rgb(33, 189, 66);
+}
+
 button{
     display: none;
 }
@@ -206,6 +211,10 @@ button{
     }
 
     #congrats{
+        display: none;
+    }
+
+    #Tie{
         display: none;
     }
 
