@@ -26,7 +26,7 @@ img{
 #message{
     display: none;
 }
-
+/* 
 #name{
     align-items: center;
     display: flex;
@@ -74,7 +74,7 @@ input:hover{
     background-color: rgb(5, 161, 5);
     height: 30px;
     width: 100px;
-}
+} */
 
 #toss{
     height: 100vh;
@@ -120,7 +120,7 @@ input:hover{
 }
 
 #result{
-    color: pink;
+    color: rgb(194, 20, 49);
     display: flex;
     align-items: center;
     height: 100vh;
@@ -137,33 +137,41 @@ input:hover{
 }
 
 .boxes{
+    color: rgb(231, 35, 166);
+    text-shadow: 2px 2px 1px blue;
     font-size: 60px; 
     display: flex;
     align-items: center;
     justify-content: center;
     min-width: calc(33vh);
     height: 33.3vh;
-    box-shadow: 2px 2px 2px 4px rgb(69, 133, 69);
-    border: calc(0.3vh/3) solid rgb(240, 238, 241);
+    box-shadow: 2px 2px 2px 4px rgb(58, 70, 177);
+    border: calc(0.3vh/3) solid rgb(238, 238, 241);
 }
 
 #lose{
     font-size: 35px;
-    color: rgb(60, 60, 112);
+    color: rgb(235, 69, 28);
 }
 
 #congrats{
     font-size: 35px;
-    color: rgb(60, 60, 112);
+    color: rgb(33, 189, 66);
 }
+
+button{
+    display: none;
+}
+
 #revert{
+    display: block;
     text-decoration: none;
     font-size: 20px;
     position: fixed;
     top: 0px;
     right: 0px;
-    color: chartreuse;
-    background-color: rgb(58, 12, 12);
+    color: rgb(33, 32, 104);
+    background-color: rgb(66, 214, 86);
     width: 100px;
 }
 
